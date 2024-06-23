@@ -1,0 +1,1032 @@
+[
+    {
+        "UserId": 144,
+        "ProductId": 55,
+        "Rating": 3
+    },
+    {
+        "UserId": 144,
+        "ProductId": 7,
+        "Rating": 7
+    },
+    {
+        "UserId": 144,
+        "ProductId": 58,
+        "Rating": 3
+    },
+    {
+        "UserId": 144,
+        "ProductId": 39,
+        "Rating": 4
+    },
+    {
+        "UserId": 496,
+        "ProductId": 85,
+        "Rating": 8
+    },
+    {
+        "UserId": 496,
+        "ProductId": 60,
+        "Rating": 2
+    },
+    {
+        "UserId": 496,
+        "ProductId": 36,
+        "Rating": 1
+    },
+    {
+        "UserId": 496,
+        "ProductId": 17,
+        "Rating": 1
+    },
+    {
+        "UserId": 496,
+        "ProductId": 6,
+        "Rating": 9
+    },
+    {
+        "UserId": 189,
+        "ProductId": 46,
+        "Rating": 4
+    },
+    {
+        "UserId": 189,
+        "ProductId": 76,
+        "Rating": 5
+    },
+    {
+        "UserId": 189,
+        "ProductId": 5,
+        "Rating": 8
+    },
+    {
+        "UserId": 189,
+        "ProductId": 78,
+        "Rating": 2
+    },
+    {
+        "UserId": 189,
+        "ProductId": 44,
+        "Rating": 1
+    },
+    {
+        "UserId": 189,
+        "ProductId": 54,
+        "Rating": 10
+    },
+    {
+        "UserId": 189,
+        "ProductId": 24,
+        "Rating": 3
+    },
+    {
+        "UserId": 189,
+        "ProductId": 68,
+        "Rating": 6
+    },
+    {
+        "UserId": 189,
+        "ProductId": 40,
+        "Rating": 1
+    },
+    {
+        "UserId": 232,
+        "ProductId": 90,
+        "Rating": 2
+    },
+    {
+        "UserId": 232,
+        "ProductId": 17,
+        "Rating": 6
+    },
+    {
+        "UserId": 232,
+        "ProductId": 67,
+        "Rating": 10
+    },
+    {
+        "UserId": 232,
+        "ProductId": 8,
+        "Rating": 8
+    },
+    {
+        "UserId": 194,
+        "ProductId": 63,
+        "Rating": 10
+    },
+    {
+        "UserId": 194,
+        "ProductId": 36,
+        "Rating": 5
+    },
+    {
+        "UserId": 194,
+        "ProductId": 12,
+        "Rating": 2
+    },
+    {
+        "UserId": 194,
+        "ProductId": 80,
+        "Rating": 4
+    },
+    {
+        "UserId": 194,
+        "ProductId": 73,
+        "Rating": 5
+    },
+    {
+        "UserId": 194,
+        "ProductId": 71,
+        "Rating": 8
+    },
+    {
+        "UserId": 194,
+        "ProductId": 22,
+        "Rating": 2
+    },
+    {
+        "UserId": 194,
+        "ProductId": 27,
+        "Rating": 1
+    },
+    {
+        "UserId": 194,
+        "ProductId": 57,
+        "Rating": 4
+    },
+    {
+        "UserId": 194,
+        "ProductId": 1,
+        "Rating": 10
+    },
+    {
+        "UserId": 194,
+        "ProductId": 19,
+        "Rating": 4
+    },
+    {
+        "UserId": 194,
+        "ProductId": 77,
+        "Rating": 1
+    },
+    {
+        "UserId": 194,
+        "ProductId": 58,
+        "Rating": 8
+    },
+    {
+        "UserId": 950,
+        "ProductId": 67,
+        "Rating": 6
+    },
+    {
+        "UserId": 370,
+        "ProductId": 87,
+        "Rating": 4
+    },
+    {
+        "UserId": 370,
+        "ProductId": 100,
+        "Rating": 5
+    },
+    {
+        "UserId": 370,
+        "ProductId": 75,
+        "Rating": 8
+    },
+    {
+        "UserId": 370,
+        "ProductId": 7,
+        "Rating": 7
+    },
+    {
+        "UserId": 370,
+        "ProductId": 25,
+        "Rating": 2
+    },
+    {
+        "UserId": 370,
+        "ProductId": 95,
+        "Rating": 2
+    },
+    {
+        "UserId": 370,
+        "ProductId": 19,
+        "Rating": 4
+    },
+    {
+        "UserId": 370,
+        "ProductId": 90,
+        "Rating": 6
+    },
+    {
+        "UserId": 370,
+        "ProductId": 53,
+        "Rating": 4
+    },
+    {
+        "UserId": 370,
+        "ProductId": 38,
+        "Rating": 10
+    },
+    {
+        "UserId": 370,
+        "ProductId": 8,
+        "Rating": 2
+    },
+    {
+        "UserId": 370,
+        "ProductId": 23,
+        "Rating": 7
+    },
+    {
+        "UserId": 370,
+        "ProductId": 49,
+        "Rating": 9
+    },
+    {
+        "UserId": 370,
+        "ProductId": 35,
+        "Rating": 2
+    },
+    {
+        "UserId": 370,
+        "ProductId": 52,
+        "Rating": 7
+    },
+    {
+        "UserId": 370,
+        "ProductId": 81,
+        "Rating": 6
+    },
+    {
+        "UserId": 370,
+        "ProductId": 59,
+        "Rating": 2
+    },
+    {
+        "UserId": 370,
+        "ProductId": 22,
+        "Rating": 3
+    },
+    {
+        "UserId": 370,
+        "ProductId": 83,
+        "Rating": 6
+    },
+    {
+        "UserId": 370,
+        "ProductId": 82,
+        "Rating": 10
+    },
+    {
+        "UserId": 980,
+        "ProductId": 95,
+        "Rating": 5
+    },
+    {
+        "UserId": 190,
+        "ProductId": 15,
+        "Rating": 7
+    },
+    {
+        "UserId": 190,
+        "ProductId": 31,
+        "Rating": 4
+    },
+    {
+        "UserId": 190,
+        "ProductId": 75,
+        "Rating": 2
+    },
+    {
+        "UserId": 190,
+        "ProductId": 77,
+        "Rating": 2
+    },
+    {
+        "UserId": 190,
+        "ProductId": 9,
+        "Rating": 2
+    },
+    {
+        "UserId": 190,
+        "ProductId": 91,
+        "Rating": 1
+    },
+    {
+        "UserId": 404,
+        "ProductId": 56,
+        "Rating": 4
+    },
+    {
+        "UserId": 404,
+        "ProductId": 94,
+        "Rating": 1
+    },
+    {
+        "UserId": 404,
+        "ProductId": 44,
+        "Rating": 5
+    },
+    {
+        "UserId": 404,
+        "ProductId": 75,
+        "Rating": 10
+    },
+    {
+        "UserId": 404,
+        "ProductId": 34,
+        "Rating": 8
+    },
+    {
+        "UserId": 404,
+        "ProductId": 28,
+        "Rating": 8
+    },
+    {
+        "UserId": 404,
+        "ProductId": 9,
+        "Rating": 5
+    },
+    {
+        "UserId": 404,
+        "ProductId": 93,
+        "Rating": 10
+    },
+    {
+        "UserId": 404,
+        "ProductId": 52,
+        "Rating": 5
+    },
+    {
+        "UserId": 404,
+        "ProductId": 22,
+        "Rating": 6
+    },
+    {
+        "UserId": 404,
+        "ProductId": 97,
+        "Rating": 9
+    },
+    {
+        "UserId": 404,
+        "ProductId": 35,
+        "Rating": 1
+    },
+    {
+        "UserId": 404,
+        "ProductId": 68,
+        "Rating": 4
+    },
+    {
+        "UserId": 404,
+        "ProductId": 61,
+        "Rating": 5
+    },
+    {
+        "UserId": 737,
+        "ProductId": 6,
+        "Rating": 1
+    },
+    {
+        "UserId": 737,
+        "ProductId": 27,
+        "Rating": 3
+    },
+    {
+        "UserId": 737,
+        "ProductId": 21,
+        "Rating": 5
+    },
+    {
+        "UserId": 737,
+        "ProductId": 94,
+        "Rating": 4
+    },
+    {
+        "UserId": 737,
+        "ProductId": 53,
+        "Rating": 1
+    },
+    {
+        "UserId": 737,
+        "ProductId": 36,
+        "Rating": 9
+    },
+    {
+        "UserId": 737,
+        "ProductId": 49,
+        "Rating": 3
+    },
+    {
+        "UserId": 737,
+        "ProductId": 54,
+        "Rating": 2
+    },
+    {
+        "UserId": 737,
+        "ProductId": 10,
+        "Rating": 4
+    },
+    {
+        "UserId": 737,
+        "ProductId": 30,
+        "Rating": 4
+    },
+    {
+        "UserId": 737,
+        "ProductId": 20,
+        "Rating": 7
+    },
+    {
+        "UserId": 737,
+        "ProductId": 16,
+        "Rating": 1
+    },
+    {
+        "UserId": 737,
+        "ProductId": 23,
+        "Rating": 1
+    },
+    {
+        "UserId": 737,
+        "ProductId": 24,
+        "Rating": 7
+    },
+    {
+        "UserId": 737,
+        "ProductId": 89,
+        "Rating": 3
+    },
+    {
+        "UserId": 737,
+        "ProductId": 1,
+        "Rating": 10
+    },
+    {
+        "UserId": 737,
+        "ProductId": 97,
+        "Rating": 10
+    },
+    {
+        "UserId": 737,
+        "ProductId": 15,
+        "Rating": 1
+    },
+    {
+        "UserId": 959,
+        "ProductId": 3,
+        "Rating": 2
+    },
+    {
+        "UserId": 959,
+        "ProductId": 71,
+        "Rating": 6
+    },
+    {
+        "UserId": 959,
+        "ProductId": 4,
+        "Rating": 6
+    },
+    {
+        "UserId": 959,
+        "ProductId": 52,
+        "Rating": 6
+    },
+    {
+        "UserId": 959,
+        "ProductId": 87,
+        "Rating": 6
+    },
+    {
+        "UserId": 959,
+        "ProductId": 1,
+        "Rating": 7
+    },
+    {
+        "UserId": 959,
+        "ProductId": 58,
+        "Rating": 4
+    },
+    {
+        "UserId": 142,
+        "ProductId": 57,
+        "Rating": 8
+    },
+    {
+        "UserId": 142,
+        "ProductId": 93,
+        "Rating": 9
+    },
+    {
+        "UserId": 142,
+        "ProductId": 1,
+        "Rating": 10
+    },
+    {
+        "UserId": 142,
+        "ProductId": 95,
+        "Rating": 9
+    },
+    {
+        "UserId": 142,
+        "ProductId": 17,
+        "Rating": 2
+    },
+    {
+        "UserId": 142,
+        "ProductId": 5,
+        "Rating": 8
+    },
+    {
+        "UserId": 142,
+        "ProductId": 99,
+        "Rating": 7
+    },
+    {
+        "UserId": 142,
+        "ProductId": 33,
+        "Rating": 5
+    },
+    {
+        "UserId": 142,
+        "ProductId": 59,
+        "Rating": 2
+    },
+    {
+        "UserId": 142,
+        "ProductId": 64,
+        "Rating": 6
+    },
+    {
+        "UserId": 142,
+        "ProductId": 32,
+        "Rating": 7
+    },
+    {
+        "UserId": 795,
+        "ProductId": 28,
+        "Rating": 3
+    },
+    {
+        "UserId": 795,
+        "ProductId": 71,
+        "Rating": 9
+    },
+    {
+        "UserId": 795,
+        "ProductId": 78,
+        "Rating": 6
+    },
+    {
+        "UserId": 121,
+        "ProductId": 74,
+        "Rating": 1
+    },
+    {
+        "UserId": 121,
+        "ProductId": 63,
+        "Rating": 2
+    },
+    {
+        "UserId": 121,
+        "ProductId": 25,
+        "Rating": 8
+    },
+    {
+        "UserId": 121,
+        "ProductId": 55,
+        "Rating": 1
+    },
+    {
+        "UserId": 743,
+        "ProductId": 91,
+        "Rating": 4
+    },
+    {
+        "UserId": 743,
+        "ProductId": 62,
+        "Rating": 10
+    },
+    {
+        "UserId": 743,
+        "ProductId": 10,
+        "Rating": 5
+    },
+    {
+        "UserId": 743,
+        "ProductId": 30,
+        "Rating": 3
+    },
+    {
+        "UserId": 743,
+        "ProductId": 20,
+        "Rating": 3
+    },
+    {
+        "UserId": 743,
+        "ProductId": 55,
+        "Rating": 1
+    },
+    {
+        "UserId": 743,
+        "ProductId": 29,
+        "Rating": 4
+    },
+    {
+        "UserId": 743,
+        "ProductId": 100,
+        "Rating": 9
+    },
+    {
+        "UserId": 743,
+        "ProductId": 89,
+        "Rating": 7
+    },
+    {
+        "UserId": 743,
+        "ProductId": 15,
+        "Rating": 9
+    },
+    {
+        "UserId": 743,
+        "ProductId": 85,
+        "Rating": 5
+    },
+    {
+        "UserId": 743,
+        "ProductId": 70,
+        "Rating": 6
+    },
+    {
+        "UserId": 743,
+        "ProductId": 65,
+        "Rating": 1
+    },
+    {
+        "UserId": 307,
+        "ProductId": 5,
+        "Rating": 1
+    },
+    {
+        "UserId": 307,
+        "ProductId": 80,
+        "Rating": 6
+    },
+    {
+        "UserId": 307,
+        "ProductId": 6,
+        "Rating": 7
+    },
+    {
+        "UserId": 307,
+        "ProductId": 90,
+        "Rating": 7
+    },
+    {
+        "UserId": 307,
+        "ProductId": 12,
+        "Rating": 5
+    },
+    {
+        "UserId": 307,
+        "ProductId": 97,
+        "Rating": 8
+    },
+    {
+        "UserId": 307,
+        "ProductId": 19,
+        "Rating": 10
+    },
+    {
+        "UserId": 307,
+        "ProductId": 78,
+        "Rating": 4
+    },
+    {
+        "UserId": 307,
+        "ProductId": 66,
+        "Rating": 5
+    },
+    {
+        "UserId": 365,
+        "ProductId": 61,
+        "Rating": 5
+    },
+    {
+        "UserId": 365,
+        "ProductId": 59,
+        "Rating": 7
+    },
+    {
+        "UserId": 365,
+        "ProductId": 93,
+        "Rating": 6
+    },
+    {
+        "UserId": 365,
+        "ProductId": 86,
+        "Rating": 5
+    },
+    {
+        "UserId": 365,
+        "ProductId": 87,
+        "Rating": 8
+    },
+    {
+        "UserId": 365,
+        "ProductId": 41,
+        "Rating": 6
+    },
+    {
+        "UserId": 365,
+        "ProductId": 33,
+        "Rating": 3
+    },
+    {
+        "UserId": 365,
+        "ProductId": 14,
+        "Rating": 7
+    },
+    {
+        "UserId": 365,
+        "ProductId": 62,
+        "Rating": 3
+    },
+    {
+        "UserId": 365,
+        "ProductId": 38,
+        "Rating": 4
+    },
+    {
+        "UserId": 365,
+        "ProductId": 25,
+        "Rating": 6
+    },
+    {
+        "UserId": 365,
+        "ProductId": 54,
+        "Rating": 7
+    },
+    {
+        "UserId": 365,
+        "ProductId": 57,
+        "Rating": 7
+    },
+    {
+        "UserId": 365,
+        "ProductId": 88,
+        "Rating": 3
+    },
+    {
+        "UserId": 365,
+        "ProductId": 23,
+        "Rating": 1
+    },
+    {
+        "UserId": 30,
+        "ProductId": 39,
+        "Rating": 5
+    },
+    {
+        "UserId": 30,
+        "ProductId": 75,
+        "Rating": 6
+    },
+    {
+        "UserId": 30,
+        "ProductId": 66,
+        "Rating": 10
+    },
+    {
+        "UserId": 30,
+        "ProductId": 31,
+        "Rating": 1
+    },
+    {
+        "UserId": 30,
+        "ProductId": 22,
+        "Rating": 10
+    },
+    {
+        "UserId": 30,
+        "ProductId": 83,
+        "Rating": 10
+    },
+    {
+        "UserId": 30,
+        "ProductId": 13,
+        "Rating": 6
+    },
+    {
+        "UserId": 30,
+        "ProductId": 92,
+        "Rating": 2
+    },
+    {
+        "UserId": 30,
+        "ProductId": 45,
+        "Rating": 5
+    },
+    {
+        "UserId": 30,
+        "ProductId": 52,
+        "Rating": 5
+    },
+    {
+        "UserId": 30,
+        "ProductId": 72,
+        "Rating": 4
+    },
+    {
+        "UserId": 30,
+        "ProductId": 30,
+        "Rating": 10
+    },
+    {
+        "UserId": 30,
+        "ProductId": 17,
+        "Rating": 4
+    },
+    {
+        "UserId": 30,
+        "ProductId": 46,
+        "Rating": 1
+    },
+    {
+        "UserId": 726,
+        "ProductId": 48,
+        "Rating": 6
+    },
+    {
+        "UserId": 726,
+        "ProductId": 19,
+        "Rating": 4
+    },
+    {
+        "UserId": 726,
+        "ProductId": 86,
+        "Rating": 5
+    },
+    {
+        "UserId": 726,
+        "ProductId": 53,
+        "Rating": 7
+    },
+    {
+        "UserId": 726,
+        "ProductId": 46,
+        "Rating": 1
+    },
+    {
+        "UserId": 726,
+        "ProductId": 2,
+        "Rating": 8
+    },
+    {
+        "UserId": 726,
+        "ProductId": 47,
+        "Rating": 4
+    },
+    {
+        "UserId": 726,
+        "ProductId": 44,
+        "Rating": 4
+    },
+    {
+        "UserId": 726,
+        "ProductId": 41,
+        "Rating": 4
+    },
+    {
+        "UserId": 726,
+        "ProductId": 16,
+        "Rating": 2
+    },
+    {
+        "UserId": 726,
+        "ProductId": 10,
+        "Rating": 6
+    },
+    {
+        "UserId": 726,
+        "ProductId": 13,
+        "Rating": 6
+    },
+    {
+        "UserId": 726,
+        "ProductId": 75,
+        "Rating": 2
+    },
+    {
+        "UserId": 726,
+        "ProductId": 27,
+        "Rating": 1
+    },
+    {
+        "UserId": 726,
+        "ProductId": 40,
+        "Rating": 7
+    },
+    {
+        "UserId": 726,
+        "ProductId": 90,
+        "Rating": 6
+    },
+    {
+        "UserId": 726,
+        "ProductId": 65,
+        "Rating": 4
+    },
+    {
+        "UserId": 339,
+        "ProductId": 67,
+        "Rating": 2
+    },
+    {
+        "UserId": 339,
+        "ProductId": 89,
+        "Rating": 6
+    },
+    {
+        "UserId": 339,
+        "ProductId": 94,
+        "Rating": 2
+    },
+    {
+        "UserId": 339,
+        "ProductId": 49,
+        "Rating": 3
+    },
+    {
+        "UserId": 339,
+        "ProductId": 48,
+        "Rating": 9
+    },
+    {
+        "UserId": 339,
+        "ProductId": 85,
+        "Rating": 7
+    },
+    {
+        "UserId": 339,
+        "ProductId": 98,
+        "Rating": 1
+    },
+    {
+        "UserId": 339,
+        "ProductId": 69,
+        "Rating": 6
+    },
+    {
+        "UserId": 339,
+        "ProductId": 61,
+        "Rating": 5
+    },
+    {
+        "UserId": 339,
+        "ProductId": 97,
+        "Rating": 5
+    },
+    {
+        "UserId": 339,
+        "ProductId": 95,
+        "Rating": 10
+    },
+    {
+        "UserId": 339,
+        "ProductId": 15,
+        "Rating": 9
+    },
+    {
+        "UserId": 339,
+        "ProductId": 36,
+        "Rating": 1
+    },
+    {
+        "UserId": 339,
+        "ProductId": 44,
+        "Rating": 6
+    },
+    {
+        "UserId": 536,
+        "ProductId": 4,
+        "Rating": 6
+    },
+    {
+        "UserId": 536,
+        "ProductId": 79,
+        "Rating": 4
+    },
+    {
+        "UserId": 536,
+        "ProductId": 55,
+        "Rating": 3
+    },
+    {
+        "UserId": 536,
+        "ProductId": 93,
+        "Rating": 10
+    }
+]
