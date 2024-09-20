@@ -1,6 +1,9 @@
 # Retail Product Predictions using ALS in pyspark
 
-In this solution we will use Azure Cosmos DB for NoSQL (and Azure Cosmos DB for MongoDB) to demonstrate how you can build a purchasing prediction feature for an ecommerce retail workload using collaborative filtering with the Alternative Least Squares model. Collaborative Filtering is the most implemented and mature recommendation system and the Alternative Least Squares (ALS) model is one of the most popular method in collaborative filtering.
+In this solution we will use Azure Cosmos DB for NoSQL (and Azure Cosmos DB for MongoDB) to demonstrate how you can build a purchasing prediction feature for an Ecommerce retail workload using collaborative filtering with the Alternative Least Squares model. Collaborative Filtering is the most implemented and mature recommendation system and the Alternative Least Squares (ALS) model is one of the most popular method in collaborative filtering.
+
+- Learn more about [Azure Cosmos DB for NoSQL vector search](https://learn.microsoft.com/azure/cosmos-db/nosql/vector-search)
+- Learn more about [vCore-based Azure Cosmos DB for MongoDB vector search](https://learn.microsoft.com/azure/cosmos-db/mongodb/vcore/vector-search)
 
 
 # Project
